@@ -1,0 +1,7 @@
+<svg width="600">
+  <rect x="1" y="1" rx="1" ry="1" width="3" height="20" style="fill:green;stroke:black;stroke-width:1;opacity:1.0" />
+  <rect x="5" y="1" rx="1" ry="1" width="3" height="20" style="fill:black;stroke:black;stroke-width:1;opacity:1.0" />
+  <rect x="9" y="1" rx="1" ry="1" width="3" height="20" style="fill:green;stroke:black;stroke-width:1;opacity:1.0" />
+  <rect x="13" y="1" rx="1" ry="1" width="3" height="20" style="fill:green;stroke:black;stroke-width:1;opacity:1.0" />
+  Sorry, your browser does not support inline SVG.
+</svg>

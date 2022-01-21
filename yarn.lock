@@ -492,6 +492,11 @@ sax@>=0.6.0:
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
   integrity sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
 
+svg-builder@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/svg-builder/-/svg-builder-1.0.0.tgz#16a3e834780b2319971d2a393c017a5f0fb49c30"
+  integrity sha512-Alb20G9MRQLXnc8YhVfimUJdHqQB2KK1/J/0pAlAoRdtD+V8ryoZCNtkDBAGxQuNyd+lX9qb0RKpZ3kso45K+w==
+
 timm@^1.6.1:
   version "1.7.1"
   resolved "https://registry.yarnpkg.com/timm/-/timm-1.7.1.tgz#96bab60c7d45b5a10a8a4d0f0117c6b7e5aff76f"
