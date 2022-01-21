@@ -1,0 +1,13 @@
+{
+  "name": "see-time",
+  "version": "0.5.0",
+  "description": "A project to create a visual representation of time.",
+  "main": "index.js",
+  "repository": "https://github.com/joefrance/see-time.git",
+  "author": "Joe France",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
